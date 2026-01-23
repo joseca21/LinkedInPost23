@@ -4,6 +4,8 @@
 
 This workflow transforms draft LinkedIn posts into polished, enriched content by combining source material and stylistic patterns from published examples.
 
+**Important**: When writing the final post, always follow the writing guidelines in [skills.md](skills.md). This defines the tone, structure, length, and quality standards for all LinkedIn posts.
+
 ## Folder Structure
 
 ```
@@ -11,6 +13,7 @@ LinkedInPost23/
 ├── drafts/                  # Place your rough draft posts here
 ├── enrichment-content/      # Supporting materials to enrich drafts
 ├── published-examples/      # Your previously published posts for style reference
+├── skills.md                # LinkedIn post writing skill & guidelines
 └── Claude.md                # This instruction file
 ```
 
@@ -48,22 +51,31 @@ LinkedInPost23/
 
 ### Step 4: Create the Enriched Post
 
+**Follow the writing guidelines in [skills.md](skills.md)** for tone, structure, and quality standards.
+
 1. **Preserve the core message** from the original draft
 2. **Incorporate relevant enrichment content** to add:
    - Credibility through data/stats
    - Depth through examples or case studies
    - Context through industry trends
 3. **Apply the author's style** by matching:
-   - The identified tone and voice
+   - The identified tone and voice from published examples
    - Structural patterns
    - Formatting preferences
    - Opening and closing techniques
+4. **Apply skills.md standards**:
+   - Informative, non-boastful tone
+   - ~2,800 characters (max 3,000)
+   - British English spelling
+   - 7-part structure (hook, context, core idea, practical breakdown, example, reflection, CTA)
+   - 3–6 relevant hashtags
 
 ### Step 5: Output
 
-1. Present the enriched post ready for LinkedIn
-2. Highlight what was added from enrichment content
-3. Note which stylistic elements were applied from examples
+1. Present the enriched post ready for LinkedIn (plain text, no markdown headings)
+2. Ensure the post meets all skills.md quality checks
+3. Optionally highlight what was added from enrichment content
+4. Optionally note which stylistic elements were applied from examples
 
 ## Usage
 
