@@ -52,21 +52,40 @@ What surprised me was how much you can accomplish without involving IT. The curr
 
 ---
 
-**Where this connects to the future of HR work**
+**A different perspective: What if candidates built their own agents?**
 
-While completing this training, I came across the concept of "vibe coding", a term popularised by Nate Jones describing how non-technical professionals can use AI conversational tools to generate code and automate tasks that previously required software engineers.
+While exploring Microsoft's Agent Academy, I came across a compelling idea from Nate Jones that flips the script entirely.
 
-Chris Walsh, an HR director at Select Finishing (a manufacturing company with employees across seven plants), exemplifies this shift. Two years ago, he had no coding background. Today, he's building SQL databases and creating API links from their HRIS software with zero IT help.
+The premise is simple but uncomfortable: You see a role on LinkedIn posted three hours ago. It already has 400 applicants. Most people react by trying to optimise their way through the noise, tweaking resume keywords to beat the ATS (Applicant Tracking System).
 
-"I still don't know how to code, but I'm writing code," Walsh explains.
+Jones argues this is optimising for the wrong thing. You're optimising for a robot whose only job is to filter people out. Recruiters spend an average of six seconds scanning a resume. They're looking for "No," not "Yes."
 
-Through vibe coding, his small HR team has automated data flows and reporting, freeing time for strategic work and enabling real-time workforce insights. Problems that would have required extensive IT consultation are now solved independently.
+**The alternative: Build a Personal Search Engine**
 
-The parallel to Microsoft's Agent Academy is striking. Both represent the same underlying shift: AI is democratising technical capabilities. What required specialists yesterday can be done by domain experts today, if they're willing to learn the new tools.
+Instead of pushing a static wall of text at someone who doesn't have time to read it, Jones proposes building an interactive interface, a "Digital Twin" of your professional brain.
 
-For HR professionals specifically, this creates an interesting opportunity. The combination of deep process knowledge (onboarding, benefits, recruitment) with low-code AI tools (Copilot Studio, Power Platform) means HR teams can build agents tailored to their actual workflows, not generic solutions from vendors who don't understand the nuances.
+Picture this: A hiring manager lands on your portfolio site. Instead of scrolling through bullet points, they're greeted by a chat window. They can ask specific questions relevant to their needs: "Have you ever led a team through a crisis?" "How do you approach stakeholder management?" The interface answers for them, citing your actual experience from performance reviews, project notes, and past work.
 
-The risk is staying on the sidelines. The opportunity is becoming the person who bridges HR expertise with AI capability.
+The technology behind this is RAG (Retrieval-Augmented Generation), the same concept covered in the Agent Academy curriculum. You upload your documents (old CVs, performance reviews, project notes, even messy working documents that show how you think), and the AI retrieves relevant information to answer queries. Crucially, it provides citations, proving it's not hallucinating but pulling from your actual history.
+
+**Vibe Coding makes this accessible**
+
+Here's where it connects back to low-code tools. Jones introduces "Vibe Coding", the idea that building applications is no longer about syntax (knowing where the semicolon goes) but about vision (knowing what you want the app to do).
+
+Using AI builders like Lovable, you can describe what you want in plain English: "Create a portfolio site. Dark theme. Resume on the left, chatbot on the right. Connect to Supabase for documents." The AI generates the code, layout, and database connection. What used to take weeks of engineering time can now be done in a weekend.
+
+**The Pattern Interrupt**
+
+The strategy isn't to upload this to an ATS and hope. When you reach out to a hiring manager, you don't say "Here is my CV." You say: "I know you're busy. I built an AI interface trained on my background so you can query my experience directly. Ask it exactly what you're looking for to see if I'm a match."
+
+Why this works:
+- **Differentiation**: You're the only person doing this
+- **Proof of Work**: The medium is the message. By sending an AI app, you prove you understand modern tools. You aren't claiming to be capable; you're demonstrating it
+- **Control**: You control the narrative. The AI answers with the tone and focus you designed
+
+Jones argues that the CV is a dying format. We're moving to a world of "Proof of Work." Words are cheap, anyone can use ChatGPT to write a perfect cover letter. Building is perceived as hard. By building this, you signal you're in the top 1% of candidates who take initiative.
+
+The parallel to Agent Academy is striking: both represent the same underlying shift. What required specialists yesterday can be done by motivated individuals today, if they're willing to learn the new tools.
 
 ---
 
